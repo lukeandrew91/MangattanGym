@@ -3,7 +3,7 @@ Project 1 - Code Institute
 
 ## Tech Stack
 
-**Client:** Dreamweaver, GitPod, Bootstrap 5.3
+**Client:** Dreamweaver, GitPod, Bootstrap 5.3, Bootstrap JS
 
 **Server:** GitHub
 
